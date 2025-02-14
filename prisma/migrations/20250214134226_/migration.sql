@@ -5,4 +5,4 @@
 
 */
 -- AlterTable
--- ALTER TABLE `referral` ADD COLUMN `category` VARCHAR(191) NOT NULL;
+ALTER TABLE `Referral` ADD COLUMN `category` VARCHAR(191) NOT NULL;
