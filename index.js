@@ -11,7 +11,7 @@ app.use(express.json());
 
 
 app.use(cors({
-  origin: "https://accredian-frontend-task-lacq.onrender.com/",
+  origin: "https://accredian-frontend-task-lacq.onrender.com",
   credentials: false,
   methods: ["GET", "POST", "PUT", "DELETE"],
 }));
